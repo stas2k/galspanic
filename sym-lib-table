@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "galspanic")(type "Legacy")(uri "${KIPRJMOD}/galspanic.lib")(options "")(descr ""))
+)

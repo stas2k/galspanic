@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "galspanic")(type "KiCad")(uri "${KIPRJMOD}/galspanic.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATF22V10C-10PU
+D 24-pin Programmable Gate Array Logic (GAL) device
+K logic programmable GAL
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc0735.pdf
+$ENDCMP
+#
+$CMP CY62167E
+D 1024k x 16 bit / 2048k x 8 bit low power CMOS SRAM
+K memory SRAM
+F https://www.cypress.com/file/43821/download
+$ENDCMP
+#
+$CMP SN74AHCT245
+D Octal BUS Transceivers, 3-State outputs
+K TTL BUS 3State
+F https://datasheet.lcsc.com/szlcsc/1811082013_Texas-Instruments-SN74AHCT245DWR_C94773.pdf
+$ENDCMP
+#
+$CMP x68000_expansion
+D Sharp X680x0 IO Bus Expansion Connector
+K x68000 x68k
+F http://www.amy.hi-ho.ne.jp/shimada/neptune/x68k.html
+$ENDCMP
+#
+#End Doc Library
