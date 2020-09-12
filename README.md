@@ -17,3 +17,11 @@ I have tested it on a X68000 Expert system.
 ## GAL Equations
 
 You can compile `.pld` GAL equations using [GALasm](https://github.com/daveho/GALasm).
+
+## Board production
+
+I use JLCPCB with the following options:
+* PCB Thickness: 1.6
+* Surface Finish: ENIG-RoHS
+* Gold Fingers: Yes
+* 45°finger chamfered: Yes
