@@ -1,4 +1,4 @@
-update=Sun 06 Sep 2020 08:02:43 PM CEST
+update=Sat 12 Sep 2020 09:31:05 PM CEST
 version=1
 last_client=kicad
 [general]
@@ -43,7 +43,7 @@ version=1
 [ModEditFrame]
 version=1
 [sheetnames]
-1=6fd3f3c9-58a4-429d-bbbb-4e7a749a80e8:
+1=e580a229-1078-4d07-8450-cc1773594045:
 [pcbnew]
 version=1
 PageLayoutDescrFile=
