@@ -14,6 +14,8 @@ The board can support up to 8MB of memory and assumes you already have 2MB built
 
 I have tested it on a X68000 Expert system.
 
+Users have reported success with XVI.
+
 ## GAL Equations
 
 You can compile `.pld` GAL equations using [GALasm](https://github.com/daveho/GALasm).
