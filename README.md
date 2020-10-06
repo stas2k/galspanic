@@ -16,7 +16,7 @@ A fourth address line is routed and the board can support 1MB systems by masking
 
 I have tested it on a X68000 Expert system.
 
-Users have reported success with XVI.
+Users have reported success with XVI and ACE as well.
 
 ## GAL Equations
 
