@@ -3,6 +3,7 @@
 ![Board design](img/board_design.png)
 
 This repo contains Kicad sources for a Static RAM expansion board for Sharp X68000 personal computer.
+Please use latest git version of kicad to open the project, or version >6.0 once it gets released.
 
 ## Design
 The expansion is implemented using 2MB static RAM chips to make the design simpler.
