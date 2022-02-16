@@ -9,7 +9,7 @@ Please use latest git version of kicad to open the project, or version >6.0 once
 The expansion is implemented using 2MB static RAM chips to make the design simpler.
 Address decoder is implemented using a ATF22V10 GAL chip. Source code for it is available in `gal/` directory.
 
-Board dimensions are taken from the [midori](https://github.com/tdaede/midiori) project.
+Board dimensions are taken from the [midiori](https://github.com/tdaede/midiori) project.
 
 The board can support up to 10MB of memory and assumes you already have 2MB built in.
 
@@ -21,6 +21,7 @@ Following systems have been reported to work:
 - ACE
 - XVI
 - Pro
+- 68030
 
 ## GAL Equations
 
