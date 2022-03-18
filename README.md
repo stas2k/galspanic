@@ -17,6 +17,7 @@ A fourth address line is routed and the board can support 1MB systems by masking
 
 ## Compatibility
 Following systems have been reported to work:
+- Super
 - Expert
 - ACE
 - XVI
